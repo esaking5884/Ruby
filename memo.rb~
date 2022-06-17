@@ -1,0 +1,6 @@
+
+def Choose_action()
+  puts "何をしますか？"
+end
+
+Choose_action()
